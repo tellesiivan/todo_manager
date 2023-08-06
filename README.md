@@ -1,4 +1,6 @@
-# 
+
+### A simple todo app using Swift UI, keep track of multi-screen state updates with @EnvironmentObject
+
 
 --- 
 
